@@ -4,7 +4,7 @@
 ### Challenge Author
 > Author: overllama
 ---
-## Challenge Files
+# Challenge Files
 we are provided with a python files and a text file 
 ```py filename = mul_safe.py
 import hashlib

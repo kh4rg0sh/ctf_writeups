@@ -4,7 +4,7 @@
 ### Challenge Author
 > Author: overllama
 ---
-## Challenge Files
+# Challenge Files
 we are provided with a python file and a text file
 ```py filename=domath_safe.py
 from Crypto.Util.number import *
