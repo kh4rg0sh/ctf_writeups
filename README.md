@@ -8,3 +8,4 @@ this repository shall contain all of the write-ups for the challenges that I sol
 |------------|------------|------------|
 | 1 | BYUCTF 2024 | 3 |
 | 2 | CryptoCTF 2024 | 2 |
+| 3 | BuckeyeCTF 2024 | 7 |
